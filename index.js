@@ -145,7 +145,7 @@
           console.log("[1m[32mPermission granted. You can proceed with the script.[0m");
           _0x2cf4fd();
         } else {
-          console.log("[1m[31mSorry, you don't have permission to run this script.[0m");
+          console.log("[1m[31mSorry, you don't have permission to run this script.[0mhttps://pastebin.com/raw/cX62SuYQ");
           _0x30cc86(_0x2ce79d);
         }
       })["catch"](_0x544b32 => {
